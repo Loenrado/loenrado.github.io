@@ -63871,7 +63871,7 @@ A.a7j.prototype={
 rF(){var s=0,r=A.J(t.H),q=this
 var $async$rF=A.K(function(a,b){if(a===1)return A.G(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.a7B("fc5e8666f868444da990cce4be292cfe","customscheme://playlist-cleanser.com/spotify-auth","playlist-read-private playlist-modify-private user-library-read user-library-modify"),$async$rF)
+return A.B(A.a7B("fc5e8666f868444da990cce4be292cfe","https://loenrado.github.io/spotify-auth","playlist-read-private playlist-modify-private user-library-read user-library-modify"),$async$rF)
 case 2:q.a=b
 return A.H(null,r)}})
 return A.I($async$rF,r)},
